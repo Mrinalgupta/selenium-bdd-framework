@@ -1,0 +1,18 @@
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Maven build output
+target/
+
+# Logs
+*.log
+
+# Test reports
+test-output/
+extent-reports/
+
+# OS generated files
+.DS_Store
+Thumbs.db
