@@ -2,10 +2,8 @@ package stepDefinitions;
 
 import io.cucumber.java.en.*;
 
-import Pages.TextBoxPage;
-import io.cucumber.java.en.*;
+import webPages.TextBoxPage;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import utils.DriverFactory;
 import testdata.TextBoxTestData;

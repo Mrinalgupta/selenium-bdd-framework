@@ -1,4 +1,4 @@
-package Pages;
+package webPages;
 
 
 import org.openqa.selenium.By;
